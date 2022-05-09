@@ -98,7 +98,7 @@ function App() {
   };
   return (
     <>
-    <h1>Clock</h1>
+    <h1>Calculator</h1>
     <div className='container'>
       <div className='wrapper'>
         <div className='screen'>
